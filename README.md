@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html,css,JS,Vue and React
 - 💞️ I’m looking to collaborate with tech mentors in building website. 
-- 📫 How to reach me text me on git
+- 📫 How to reach me send me a mail @fabikunabiola2209@gmail.com
 - 😄 Pronouns: Hermes
 - ⚡ Fun fact: coding, texting 
 
